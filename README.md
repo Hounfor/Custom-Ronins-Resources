@@ -7,7 +7,7 @@ Current version is 1.0.0, added 09.12.2021.
 
 # Installation:
 1) Unzip the archive into the BATTLETECH\Mods folder;
-2) Open BT\Mods\ModTek folder and run modtekinjector.exe as administrator$
+2) Open BT\Mods\ModTek folder and run modtekinjector.exe as administrator;
 3) Launch BT and make sure no error messages appear in the main menu.
 Everything is ready to go.
 
